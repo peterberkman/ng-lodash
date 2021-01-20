@@ -112,7 +112,7 @@
     "requireCamelCaseOrUpperCaseIdentifiers": true,
     "disallowKeywords": ["with"],
     "disallowMultipleLineBreaks": true,
-    "validateLineBreaks": "LF",
+    "validateLineBreaks": false,
     "validateQuoteMarks": "'",
     "validateIndentation": 4,
     "disallowMixedSpacesAndTabs": true,

@@ -1,6 +1,5 @@
 // Tests the ng-lodash module has access to lodash functions as accessible
 describe('ng-lodash', function () {
-
     beforeEach(module('ngLodash'));
 
     it('should have lodash as a constant defined', inject(function (lodash) {
